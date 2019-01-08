@@ -8,4 +8,6 @@ namespace SalesWebMVC.Models.ViewModels
         public ICollection<Departament> Departaments { get; set; }
 
     }
+
 }
+
